@@ -11,7 +11,6 @@
   <#include "navbar.ftl" />
   <h1>Events</h1>
   <!-- <p>A list of events should pop on this page for users to view</p> -->
-
   <table>
     <tr>
       <th>Name</th>
@@ -27,7 +26,6 @@
     </tr>
     </#list>
   </table>
-
  </body>
 
 </html>
